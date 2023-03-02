@@ -2,10 +2,8 @@
 
 ### i do like functional programming with clean and reusable code and performance.
 
-🛠️ Languages and Tools
-I use those technologies the most in Web development:
-
 <section>
+      <h3 align="left">I use those technologies the most in Web development: </h3>
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
    </a>
