@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### i do like functional programming with clean and reusable code and performance.
+
+![snake gif](https://github.com/alexander9856/alexander9856/blob/output/github-contribution-grid-snake.gif)
