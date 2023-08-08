@@ -22,4 +22,4 @@
 
   </section> 
 
-![snake gif](https://github.com/alexander9856/alexander9856/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/{{your_username}}/{{alexander9856}}/blob/output/github-contribution-grid-snake.svg)
