@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Alexander.
 
-### i do like functional programming with clean and reusable code and performance.
-
 <section>
       <h3 align="left">technologies i use the most: </h3>
    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
